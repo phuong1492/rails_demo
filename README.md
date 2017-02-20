@@ -61,11 +61,12 @@ config/deploy.rbにはステージ間で共通の設定を記述する。よく�
   - 利用するSCM
   - タスク
   - それぞれのタスクで実行するコマンド
+## Cutome tak
 
 ## capコマンドでタスクを実行する  　
 
 bundle exec cap test deploy
-
+- Khi muon chay 1 tak cu the cthi cung co the dung deploy:bundle
 P/S
 Deploy RollBack
 
