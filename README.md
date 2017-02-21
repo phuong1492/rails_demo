@@ -59,7 +59,7 @@ config/deploy.rbにはステージ間で共通の設定を記述する。よく�
 
 ## capコマンドでタスクを実行する  　
 
-bundle exec cap <環境> <タスク>
+```bundle exec cap <環境> <タスク>```
 
 例えば：
 テスト環境にデプロイするコマンド
